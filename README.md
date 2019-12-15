@@ -1,6 +1,6 @@
-### o
+### gnu linux crux
 ---
-
+https://crux.nu/
 
 ```
 ```
